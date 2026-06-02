@@ -57,25 +57,6 @@ The operational flow followed this sequence:
 9. Repair Chrome Remote Desktop service state.
 10. Register the recreated VM as a remote desktop host.
 
-## Repository Structure
-
-```text
-.
-├── README.md
-└── docs/
-    └── gcp-vm-snapshot-recovery-record.md
-```
-
-Suggested optional structure if adding screenshots or rendered documents:
-
-```text
-.
-├── README.md
-├── docs/
-│   └── gcp-vm-snapshot-recovery-record.md
-└── assets/
-    └── screenshots/
-```
 
 ## Main CLI Flow
 
